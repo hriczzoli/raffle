@@ -1,4 +1,5 @@
 This project was created for the Raffle.ai code challenge.
+![Screenshot of the final time](application-preview.png)
 
 ## Project layout
 ### React Application and it's packages:
