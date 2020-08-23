@@ -22,6 +22,12 @@ This project was created for the Raffle.ai code challenge.
         -   Tailwind.css
             https://tailwindcss.com/
 
+## For Logging in:
+    -   username: Admin
+    -   password: secretPassword
+
+But can be whatever is configured in /utils/credentials.js
+
 
 ## Steps
 # Before I got started I wrote a list of steps to follow in order to complete the challenge within the time limit
