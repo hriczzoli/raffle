@@ -30,7 +30,7 @@ But can be whatever is configured in /utils/credentials.js
 
 
 ## Steps
-# Before I got started I wrote a list of steps to follow in order to complete the challenge within the time limit
+### Before I got started I wrote a list of steps to follow in order to complete the challenge within the time limit
 
 here's a link to the file: https://docs.google.com/document/d/1QiLOtkLmI_lbSczq3iTJbyaS-7LVk48zgyjkwtOqeLE/edit?usp=sharing
 
@@ -40,14 +40,15 @@ Time:
 
 ## Issues
 
-    -   After adding an item to the list, when you try to add a new one it fills out the form with the values of the previous one. It should only do that when you edit -> unfortunately I ran out of time so could not fix the issue.
+    -   After adding an item to the list, when you try to add a new one it fills out the form
+         with the values of the previous one. It should only do that when you edit -> unfortunately I ran out of time so could not fix the issue.
     -   The application also needs proper styling
 
 
 ## Possible additional features
 
     -   Input field above the list -> to filter
-    -   Maybe having predefined filters, or some other type of sorting of sorting (i.e. priority)
+    -   Maybe having predefined filters, or some other type of sorting (i.e. priority)
         
 
 ## Available Scripts
